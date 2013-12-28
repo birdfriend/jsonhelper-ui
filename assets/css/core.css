@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+body{
+	padding-top: 80px;
+	padding-bottom: 20px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.myjumbotron {
+padding: 30px;
+margin-bottom: 30px;
+font-size: 12px;
+font-weight: 100;
+color: inherit;
+background-color: #EEE;
+}
